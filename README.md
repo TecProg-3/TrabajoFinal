@@ -53,7 +53,7 @@ En la exposición se deberá incluir:
 ---
 ## 🎓 Regularización de la Materia
 
-- Para regularizar se debera presentar el trabajo de forma grupal donde se expongan los requerimientos del proyecto. 
+- Para regularizar se deberá presentar el trabajo de forma grupal donde se expongan los requerimientos del proyecto. 
 
 ## 🎓 Promoción de la Materia
 
